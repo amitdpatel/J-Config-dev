@@ -6,8 +6,8 @@ management:
 security:
  basic:
   enabled: true
-  path:/manage
- user
+  path: /manage
+ user:
   name: admin
   password: adminaccess
   
