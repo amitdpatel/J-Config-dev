@@ -1,4 +1,0 @@
-db.driverClassName =com.microsoft.sqlserver.jdbc.SQLServerDriver
-db.url=jdbc:sqlserver://SAC-DBDEV01.art.com;databaseName=dTrack
-db.username =devapp
-db.password =devappaccess
