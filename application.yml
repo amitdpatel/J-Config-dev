@@ -1,16 +1,4 @@
-management:
- security:
-  enabled: true
-  roles: SUPERUSER
- context-path: /manage
-security:
- basic:
-  enabled: true
-  path: /manage
- user:
-  name: admin
-  password: adminaccess
-  
+ 
 logging:
  level:
   org.springframework.web: INFO
